@@ -93,3 +93,53 @@ input[type="radio"] {
   border: 0.15em solid currentColor;
   border-radius: 50%;
 }
+
+
+nav {
+  padding: 3rem;
+  background-color: #00693E;
+  color: white;
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+ /* {
+  background-color: #264356;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, .25);
+} */
+
+.top {
+  /* height: 590px; */
+  /* width: 400px; */
+  background-color: #fff;
+  margin: -110px auto;
+  border-radius: 10px;
+  color: #666;
+  /* padding: 40px 40px; */
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, .25);
+}
+
+.info {
+  padding: 10px;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  padding: 0px;
+  margin: 5px 5px;
+}
+
+h2 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 100;
+}
+
+p.line {
+  margin: 0px auto 20px auto;
+  color: #999;
+}
